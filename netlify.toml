@@ -14,3 +14,9 @@
   pretty_urls = true
 [build.processing.images]
   compress = true
+
+[[redirects]]
+  from = "/apply"
+  to = "https://forms.gle/KNSmZfbNhLK8ywcd8"
+  status = 302
+  force = true
