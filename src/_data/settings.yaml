@@ -2,6 +2,8 @@ name: "The Drop Bears"
 description: "FRC Team 4774 from Sydney, Australia"
 siteUrl: "https://thedropbears.org.au"
 defaultOgImage: "/static/img/og-default.jpg"
+interestForm:
+  open: true
 banner:
   enabled: true
   text: "Our interest form is now open!"
