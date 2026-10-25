@@ -1,11 +1,11 @@
 ---
-title: Info - The Drop Bears
+title: Info
 description: Learn more about FRC Team 4774, The Drop Bears, from Sydney, Australia
 layout: layouts/page.njk
 permalink: /info/
 featuredImage: /static/img/team-photo.jpg
 ---
-## About us
+## About Us
 
 We are a team of high school students, sharing our passion for STEM. Split into sub-teams and with support from our industry-skilled mentors, we compete in the worldwide, annual [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc).
 
@@ -43,8 +43,6 @@ During Term time: Saturday, Sunday 11am – 5pm and Thursday, Friday, Monday 4pm
   Students learn to use programs such as Onshape, a Computer Aided Design (CAD) package and develop skills within engineering mechanics to solve problems and design solutions.
   </div>
 </div>
-
----
 
 ### Controls
 
