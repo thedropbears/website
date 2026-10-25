@@ -14,15 +14,6 @@ module.exports = {
     {
       route: "",
       handle: function (req, res, next) {
-        if (/^\/consentform\/?(\?.*)?$/.test(req.url)) {
-          req.url = "/static/docs/consent.pdf";
-        }
-        next();
-      }
-    },
-    {
-      route: "",
-      handle: function (req, res, next) {
         // If the request is for a file that doesn't exist and it's not an asset
         if (!req.url.includes('.') || req.url.endsWith('.html')) {
           const fs = require('fs');

@@ -14,8 +14,3 @@
   pretty_urls = true
 [build.processing.images]
   compress = true
-
-[[redirects]]
-  from = "/consentform"
-  to = "/static/docs/consent.pdf"
-  status = 200
