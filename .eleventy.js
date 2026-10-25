@@ -96,6 +96,9 @@ module.exports = function (eleventyConfig) {
   // Copy favicon to route of /_site
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
 
+  // Copy Cloudflare Pages redirects to root of /_site
+  eleventyConfig.addPassthroughCopy("./src/_redirects");
+
   // Minify HTML
   eleventyConfig.addTransform("htmlmin", async function (content, outputPath) {
     if (outputPath && outputPath.endsWith(".html")) {
