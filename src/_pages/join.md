@@ -43,6 +43,6 @@ There are many ways to contribute to The Drop Bears:
 
 ## How to Join
 
-1. **Express Your Interest**: Fill out our [interest form](/eoi/) to be notified about our information session and when you can join us.
+1. **Express Your Interest**: Fill out our [interest form](/eoi/) to be notified about our information session and when you can join us. The form is currently closed, but reopens each year ahead of the information session.
 2. **Attend the Information Session**: We hold an information session in about October each year.
 3. **Attend our workshops**: Following the information session, we run a series of practical workshops on the weekend for new students to prepare you for the following season and bring you up to speed, ready to design and build robots!
