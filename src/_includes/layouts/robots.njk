@@ -3,7 +3,7 @@ layout: base.njk
 ---
 
 <div class="container mx-auto px-6 py-8 md:py-12" x-data="{ selectedRobot: null }">
-  <h1 class="text-3xl md:text-4xl font-bold text-primary mb-8">Our Robots</h1>
+  <h1 class="text-4xl md:text-5xl font-bold text-primary mb-8">Our Robots</h1>
   
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
     {% for robot in collections.robots %}
@@ -111,9 +111,9 @@ layout: base.njk
           
           <!-- markdown section -->
           <div>
-            <h1 x-text="selectedRobot?.name" class="text-3xl md:text-4xl font-bold text-primary mb-6"></h1>
-            
-            <div class="prose prose-lg max-w-none" x-html="selectedRobot?.description"></div>
+            <h2 x-text="selectedRobot?.name" class="text-4xl md:text-5xl font-bold tracking-tighter text-primary mb-6"></h2>
+
+            <div class="prose prose-lg max-w-none prose-headings:text-primary" x-html="selectedRobot?.description"></div>
           </div>
         </div>
       </div>

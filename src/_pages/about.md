@@ -6,4 +6,4 @@ permalink: /about/
 featuredImage: /static/img/team-photo.jpg
 ---
 
-# The page has been moved to info.md
+This page has moved to [Info](/info/).
