@@ -1,7 +1,7 @@
 ---
 title: Info - The Drop Bears
 description: Learn more about FRC Team 4774, The Drop Bears, from Sydney, Australia
-layout: layouts/page.njk
+layout: layouts/info.njk
 permalink: /info/
 featuredImage: /static/img/team-photo.jpg
 ---
@@ -27,8 +27,8 @@ During Term time: Saturday, Sunday 11am – 5pm and Thursday, Friday, Monday 4pm
 
 ### Mechanical
 
-<div class="md:flex md:items-center md:gap-6">
-  <img src="/static/img/mechanical.png" alt="Mechanical assembly work" class="w-full md:w-1/3 mb-4 rounded-lg shadow-md">
+<div class="md:flex md:items-center md:gap-10">
+  <img src="/static/img/mechanical.png" alt="Early shooter prototyping" class="w-full md:w-1/3 mb-4 rounded-lg shadow-md">
   <div class="md:w-2/3">
   
   The Mechanical Team is charged with the nuts and bolts of engineering the robot.
@@ -48,20 +48,26 @@ During Term time: Saturday, Sunday 11am – 5pm and Thursday, Friday, Monday 4pm
 
 ### Controls
 
+<div class="md:flex md:items-center md:gap-6">
+  <div class="md:w-2/3">
+  In charge of controlling the robot and making it intelligent.
 
-In charge of controlling the robot and making it intelligent.
+  It provides the opportunity for students to learn about:
 
-It provides the opportunity for students to:
+  - Vision, using cameras to provide the robot with useful information.
+  - Autonomous, giving the robot predetermined actions.
+  - Dashboard, providing drivers with useful information about the robot at a glance.
 
-- Vision, using cameras to provide the robot with useful information.
-- Autonomous, giving the robot predetermined actions.
-- Dashboard, provide the robot drivers with useful information about the robot.
+  Software students will be taught, over the course of the season:
 
-Software students will be taught, over the course of the season:
+  - Programming in Python.
+  - Problem solving.
+  - Collaboration with other team members.
+  </div>
 
-- Programming in Python.
-- Problem solving.
-- Collaboration with other team members.
+  <img src="/static/img/controls.png" alt="Log analysis in the pits" class="w-full md:w-1/3 mb-4 rounded-lg shadow-md">
+</div>
+
 
 ---
 
