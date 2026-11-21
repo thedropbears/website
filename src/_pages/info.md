@@ -1,7 +1,7 @@
 ---
 title: Info - The Drop Bears
 description: Learn more about FRC Team 4774, The Drop Bears, from Sydney, Australia
-layout: layouts/page.njk
+layout: layouts/info.njk
 permalink: /info/
 featuredImage: /static/img/team-photo.jpg
 ---
