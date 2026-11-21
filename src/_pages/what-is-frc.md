@@ -7,9 +7,20 @@ permalink: /what-is-frc/
 
 ## What is FRC?
 
-FIRST Robotics Competition (FRC) is a global high school robotics competition that combines the excitement of sport with the rigor of science and technology. Each year teams of students design, build, and program a human-sized robot to play a brand-new game revealed yearly in January. Along the way, students learn STEM skills, project management, and teamwork while working shoulder-to-shoulder with mentors.
 
-{% youtube "Jd29kzjclV0", "What is FRC?" %}
+
+<div class="lg:flex lg:items-top lg:gap-[40px]">
+  <div class="lg:w-1/2 ">
+
+  - FIRST Robotics Competition (FRC) is a global high school robotics competition that combines the excitement of sport with the rigor of science and technology.
+    
+  - Each year teams of students design, build, and program a human-sized robot to play a brand-new game revealed yearly in January.
+    
+  - Along the way, students learn STEM skills, project management, and teamwork while working shoulder-to-shoulder with mentors.
+  </div>
+
+  {% youtube "Jd29kzjclV0", "What is FRC?" %}
+</div>
 
 ### How the competition works
 
